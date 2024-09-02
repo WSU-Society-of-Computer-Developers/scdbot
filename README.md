@@ -20,7 +20,7 @@ Tons of creeps in the comp sci, so we want to make sure that only students can a
 2. Install dependencies
 
 ```bash
-npm i
+npm install
 ```
 
 3. Copy the `.env.example` file to `.env` and fill in the values

@@ -25,7 +25,7 @@ export const Errors = {
   VERIFICATION_FAILED: `Verification failed, please enter a valid access ID... (e.g. \`hh3509\`)`,
   VERIFICATION_TIMEOUT: `Verification timed out, you must re-join the server again...`,
   VERIFICATION_UNKNOWN: `An unknown error occurred, you must re-join the server again...`,
-  GUILD_NOT_FOUND: `Guild not found (GUILD_ID is invalid)...`,
+  GUILD_NOT_FOUND: `Guild not found (GUILD_ID is invalid).`,
 };
 
 export const Messages = {
